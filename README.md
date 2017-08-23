@@ -1,2 +1,2 @@
-# eagle-lbr
+# Eagle libraries
 Eagle libraries
